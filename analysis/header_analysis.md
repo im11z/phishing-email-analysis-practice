@@ -1,6 +1,10 @@
-## Email Header Analysis
+## Header Analysis
 
-- Sender IP analysis
-- Mismatch between From and Return-Path
-- Suspicious relay servers
-- Time zone anomalies
+### Observations
+- Sender domain spoofing detected (paypa1.com vs paypal.com)
+- IP address not associated with legitimate mail servers
+- Multiple suspicious relay hops
+- Inconsistent Message-ID format
+
+### Conclusion
+Headers indicate email spoofing and unauthorized mail servers.
