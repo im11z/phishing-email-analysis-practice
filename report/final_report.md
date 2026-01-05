@@ -1,14 +1,15 @@
 # Phishing Email Analysis Report
 
 ## Summary
-This report documents the analysis of phishing email samples, focusing on
-technical indicators and attacker techniques.
+Multiple phishing emails were analyzed to identify spoofing techniques,
+malicious URLs, and weak email authentication mechanisms.
 
-## Findings
-- Common spoofing techniques
-- Abuse of legitimate redirect services
-- Poor email authentication configurations
+## Key Findings
+- Domain impersonation using typosquatting
+- Abuse of HTTPS to gain trust
+- Missing or failed email authentication
+- Multi-stage redirection chains
 
 ## Conclusion
-Phishing emails rely heavily on social engineering combined with weak email
-authentication enforcement.
+Phishing attacks combine social engineering with technical weaknesses.
+Proper SPF, DKIM, and DMARC enforcement significantly reduces risk.
