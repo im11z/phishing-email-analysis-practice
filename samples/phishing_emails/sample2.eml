@@ -1,0 +1,9 @@
+From: Microsoft Alerts <alerts@m1crosoft.com>
+To: user@example.com
+Subject: Suspicious Sign-In Detected
+Received: from mail.fakehost.ru (91.240.118.22)
+
+We detected unusual login activity.
+Confirm your identity here:
+
+https://login-microsoft-secure[.]net/auth
