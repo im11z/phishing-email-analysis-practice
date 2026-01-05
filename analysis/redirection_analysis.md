@@ -1,5 +1,8 @@
 ## Redirection Chain Analysis
 
-- Initial phishing link
-- Intermediate redirect services
-- Final landing page
+1. Initial phishing URL
+2. Redirect through compromised website
+3. Final fake login page mimicking PayPal/Microsoft
+
+### Purpose
+To evade security scanners and delay detection.
