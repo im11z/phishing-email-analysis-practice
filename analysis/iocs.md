@@ -1,10 +1,12 @@
 ## Indicators of Compromise (IOCs)
 
 ### Domains
-- malicious-example[.]com
+- paypa1-secure-login[.]com
+- login-microsoft-secure[.]net
 
 ### IP Addresses
-- 192.0.2.10
+- 185.203.118.45
+- 91.240.118.22
 
 ### URLs
-- hxxp://example[.]com/login
+- hxxp://paypa1-secure-login[.]com/verify
