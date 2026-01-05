@@ -1,0 +1,6 @@
+From: notifications@github.com
+To: user@example.com
+Subject: New sign-in to GitHub
+Received: from github-smtp-inbound
+
+This is a security alert for your GitHub account.
